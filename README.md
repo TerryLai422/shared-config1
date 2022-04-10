@@ -1,5 +1,7 @@
 # shared-config1
  
+The following are the configuration files structure:<br />
+<br />
 └─ application.yml<br />
 └─ application-dev.yml<br />
 └─ app1<br />
