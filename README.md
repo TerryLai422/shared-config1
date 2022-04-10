@@ -1,10 +1,10 @@
 # shared-config1
  
-├── application.yml
-├── application-dev.yml
-├── app1
-│   └── application.yml
-│   └── application-dev.yml
-├── app2
-    └── application.yml
-    └── application-dev.yml
+├── application.yml<br />
+├── application-dev.yml<br />
+├── app1<br />
+│   └── application.yml<br />
+│   └── application-dev.yml<br />
+├── app2<br />
+    └── application.yml<br />
+    └── application-dev.yml<br />
