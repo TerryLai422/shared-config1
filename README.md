@@ -3,8 +3,8 @@
 ├── application.yml<br />
 ├── application-dev.yml<br />
 ├── app1<br />
-│   └── application.yml<br />
-│   └── application-dev.yml<br />
+│&nbsp;&nbsp;└── application.yml<br />
+│&nbsp;&nbsp;└── application-dev.yml<br />
 ├── app2<br />
-    └── application.yml<br />
-    └── application-dev.yml<br />
+&nbsp;&nbsp;└── application.yml<br />
+&nbsp;&nbsp;└── application-dev.yml<br />
