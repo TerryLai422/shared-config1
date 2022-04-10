@@ -1,5 +1,9 @@
 # shared-config1
- 
+
+The common configurations are stored in application.yml in the root directory.<br />
+The configurations for specified application are stored in application.yml under application directory.<br />
+Please refer to app1 under the following directory structure as an example.<br /> 
+<br />
 The following are the configuration files structure:<br />
 <br />
 └─ application.yml<br />
