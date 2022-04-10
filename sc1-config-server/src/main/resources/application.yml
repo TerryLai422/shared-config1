@@ -1,0 +1,12 @@
+server:
+  port: 8090
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/TerryLai422/shared-config1.git
+          search-paths: '{application}'
+          default-label: main
